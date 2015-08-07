@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.outpace</groupId>
   <artifactId>data.csv</artifactId>
-  <version>0.1.3-SNAPSHOT</version>
+  <version>0.1.3</version>
   <name>${artifactId}</name>
   <description>A Clojure library for reading and writing comma separated value (csv) files (Outpace fork)</description>
   <url>https://github.com/outpace/data.csv</url>
